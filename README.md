@@ -1,4 +1,4 @@
-# Hi, I'm [Abhayadev MB]
+# Hi, I'm Abhayadev MB
 
 Data Analyst focused on transforming messy, real-world data into automated pipelines, actionable business strategies, and interactive executive dashboards. With a strong background in mathematics, I bridge the gap between complex data infrastructure and high-impact commercial decisions.
 
